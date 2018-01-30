@@ -40,7 +40,7 @@ namespace Store.SAL.BAS
                 treProductGroups.Nodes.Add(node);
                 BuildTreeview(node , source);
             }
-            treProductGroups.ExpandAll();
+            treProductGroups.ExpandAll();   
         }
     }
 }
